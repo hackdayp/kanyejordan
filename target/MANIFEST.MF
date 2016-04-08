@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: hackdaydemo
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.hackday
-Build-Jdk: 1.7.0_45
-Built-By: paulhd
-Created-By: IntelliJ IDEA
-Main-Class: ${start-class}
-
